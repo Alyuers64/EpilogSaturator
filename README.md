@@ -141,14 +141,6 @@ This project is intended as a learning exercise and the foundation for future au
 
 ---
 
-## License
-
-This project is released under the MIT License.
-
-Feel free to modify, learn from, and improve the code.
-
----
-
 ## Author
 
 **EpiloG**
