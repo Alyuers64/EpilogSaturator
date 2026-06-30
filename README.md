@@ -18,13 +18,11 @@ EpiloG Saturator is a simple audio saturation plugin designed to add warmth, sof
 
 ## Features
 
-* 🎛️ Soft analog saturation
 * 🎚️ Adjustable drive amount
 * 📻 Analog-style tone filtering
 * 📼 Vintage coloration
 * ✨ Airy high-frequency enhancement
 * ⚡ Lightweight CPU usage
-* 🎵 Stereo processing
 
 ---
 
