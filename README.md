@@ -2,7 +2,7 @@
 
 A lightweight analog saturation plugin built with **Cabbage** and **Csound**.
 
-SoftTube is a simple audio saturation plugin designed to add warmth, soft harmonic distortion, vintage character, and subtle high-frequency enhancement. It was created as my very first VST plugin project while learning audio DSP using Csound.
+EpiloG Saturator is a simple audio saturation plugin designed to add warmth, soft harmonic distortion, vintage character, and subtle high-frequency enhancement. It was created as my very first VST plugin project while learning audio DSP using Csound.
 
 > **Developer:** EpiloG
 
