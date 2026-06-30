@@ -20,38 +20,6 @@ EpiloG Saturator is a simple audio saturation plugin designed to add warmth, sof
 
 ---
 
-## Controls
-
-### Saturation
-
-Controls the amount of soft clipping using the `tanh()` waveshaper.
-
-* Low values → clean sound
-* High values → warmer and more saturated
-
----
-
-### Analog Feels
-
-Simulates an analog-style frequency response by gradually reducing the high frequencies.
-
-* 0 → full bandwidth
-* 100% → darker analog character
-
----
-
-### Vintage
-
-Adds additional drive while making the tone slightly darker, producing a vintage-style coloration.
-
----
-
-### Airy
-
-Adds a gentle high-frequency enhancement to restore brightness after saturation.
-
----
-
 ## Built With
 
 * Cabbage
@@ -85,16 +53,6 @@ After installing Csound, install Cabbage if you want to edit or compile the proj
    * VST
    * AU (macOS)
    * Standalone
-
----
-
-## Project Structure
-
-```text
-SoftTube.csd
-README.md
-LICENSE
-```
 
 ---
 
