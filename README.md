@@ -1,5 +1,12 @@
 # EpiloG Saturator
 
+<p align="center">
+  <img
+    src="https://github.com/user-attachments/assets/e82c6401-2a7b-4486-ac93-021593ab9259"
+    alt="EpiloG Saturator UI"
+    width="452">
+</p>
+
 A lightweight analog saturation plugin built with **Cabbage** and **Csound**.
 
 EpiloG Saturator is a simple audio saturation plugin designed to add warmth, soft harmonic distortion, vintage character, and subtle high-frequency enhancement. It was created as my very first VST plugin project while learning audio DSP using Csound.
@@ -7,6 +14,7 @@ EpiloG Saturator is a simple audio saturation plugin designed to add warmth, sof
 > **Developer:** EpiloG
 
 ---
+
 
 ## Features
 
